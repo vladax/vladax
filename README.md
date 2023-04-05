@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladax
 - 👀 I’m interested in WordPress development and troubleshooting.
-- 🌱 I’m currently learning PHP and Javascript.
+- 🌱 I’m currently learning Ansible, Docker and Linux system administration.
 
 <!---
 vladax/vladax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
